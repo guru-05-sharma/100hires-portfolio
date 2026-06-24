@@ -8,36 +8,45 @@ Name: Gurunarayan Sharma
 
 - Cursor IDE
 - GitHub
-- Claude Code Extension
-- Codex Extension
 
 ## Steps Completed
 
 1. Installed Cursor IDE
 2. Connected Cursor with GitHub
-3. Installed Claude Code Extension
-4. Installed Codex Extension
-5. Created a public GitHub repository
-6. Created README.md documentation
+3. Created a public GitHub repository
+4. Created and published a README.md file
+5. Documented the setup process on GitHub
 
 ## Issues Faced
 
 - Windows SmartScreen warning appeared during Cursor installation.
-- Initially unfamiliar with GitHub repository setup.
+- I was initially unfamiliar with GitHub repository setup.
+- The current Cursor interface appeared different from the one described in the instructions.
+- I was unable to locate the Claude Code and Codex extensions in the available Cursor marketplace.
 
 ## How I Solved Them
 
-- Verified Cursor installer from the official website.
-- Followed GitHub and Cursor documentation.
-- Successfully connected GitHub and Cursor.
+- Verified the Cursor installer was downloaded from the official Cursor website.
+- Followed GitHub documentation and setup guides.
+- Explored the current Cursor interface and available plugins.
+- Completed all remaining setup steps and documented the process accurately.
 
 ## What I Learned
 
-- Creating GitHub repositories
-- Connecting GitHub with Cursor
-- Installing extensions in Cursor
-- Writing project documentation using README.md
+- How to create a GitHub repository
+- How to connect GitHub with Cursor
+- How to create and edit a README.md file
+- How to document technical work in a public repository
+- Basic GitHub workflow and repository management
 
-## Status
+## Current Status
 
-Task completed successfully.
+- Cursor IDE installed successfully
+- GitHub account connected successfully
+- Public repository created successfully
+- README.md created and published successfully
+- Claude Code and Codex extensions could not be located in the current Cursor interface
+
+## Repository Link
+
+Repository created and maintained as part of the 100Hires setup task.
